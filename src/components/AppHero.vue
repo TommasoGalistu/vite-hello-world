@@ -1,6 +1,6 @@
 <template>
   <div>
-    <img src="/ultimate-guide-SVGs-vue-js.avif" alt="" />
+    <img src="/ultimate-guide-SVGs-vue-js.avif" alt="foto di vue" />
   </div>
 </template>
   

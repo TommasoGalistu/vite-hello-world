@@ -1,13 +1,12 @@
 <script>
-
-import FirstComponent from './components/AppTitle.vue'
+import FirstComponent from "./components/AppTitle.vue";
 
 export default {
+  name: "App",
   components: {
     FirstComponent,
-    
-  }
-}
+  },
+};
 </script>
   
 <template>
@@ -15,5 +14,4 @@ export default {
 </template>
 
 <style scoped>
-  
 </style>
