@@ -5,6 +5,7 @@ import FirstComponent from './components/AppTitle.vue'
 export default {
   components: {
     FirstComponent,
+    
   }
 }
 </script>
